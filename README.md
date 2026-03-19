@@ -7,7 +7,10 @@
 - 🔹 [SysMonitor](https://github.com/tox1cfps/sysmonitor)  
   Sistema de monitoramento de recursos do sistema  
 
-- 🔹 [Bot Discord](https://github.com/tox1cfps/discord-bot)  
+- 🔹 [PiraNews Bot](https://github.com/tox1cfps/discord-bot)  
+  Bot com foco em jornalistico cômico para servidores de discord com integração com API do Gemini
+
+- 🔹 [Idle Alert Extension](https://github.com/tox1cfps/idle-alert-extension)  
   Bot com foco em jornalistico cômico para servidores de discord com integração com API do Gemini
 ---
 
