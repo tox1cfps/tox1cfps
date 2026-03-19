@@ -1,4 +1,4 @@
-<img height="1000" src="https://github.com/user-attachments/assets/4c708fad-cbe0-4369-aef3-1fa178349be2" />
+<img height="700" src="https://github.com/user-attachments/assets/4c708fad-cbe0-4369-aef3-1fa178349be2" />
 
 # 👋 Fala aí, eu sou o Arthur!
 
