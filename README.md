@@ -7,7 +7,7 @@
 - 🔹 [SysMonitor](https://github.com/tox1cfps/sysmonitor)  
   Sistema de monitoramento de recursos do sistema  
 
-- 🔹 [Bot Discord](https://github.com/tox1cfps/NOME-DO-REPO](https://github.com/tox1cfps/discord-bot))  
+- 🔹 [Bot Discord]((https://github.com/tox1cfps/discord-bot))  
   Bot com foco em jornalistico cômico para servidores de discord com integração com API do Gemini
 ---
 
