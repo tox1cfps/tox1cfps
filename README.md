@@ -2,17 +2,17 @@
 
 # 👋 Fala aí, eu sou o Arthur!
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (1º semestre)  
-💻 Focado em backend, automação e sistemas  
-🚀 Atualmente estudando: Python, algoritmos, redes e sistemas operacionais  
+## 🚀 Projetos em destaque
 
+- 🔹 [SysMonitor](https://github.com/tox1cfps/sysmonitor)  
+  Sistema de monitoramento de recursos do sistema  
+
+- 🔹 [Bot Discord](https://github.com/tox1cfps/NOME-DO-REPO](https://github.com/tox1cfps/discord-bot))  
+  Bot com foco em jornalistico cômico para servidores de discord com integração com API do Gemini
 ---
 
-## 🧠 Sobre mim
-Sou estudante no início da graduação e estou desenvolvendo projetos práticos com base nas disciplinas da faculdade.  
-Gosto de aprender construindo sistemas reais e entendendo como tudo funciona por baixo dos panos.
-
----
+🎓 Estudante de ADS (1º semestre)  
+💻 Focado em backend e automação
 
 ## 🛠️ Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
