@@ -11,7 +11,7 @@
   Bot com foco em jornalistico cômico para servidores de discord com integração com API do Gemini
 
 - 🔹 [Idle Alert Extension](https://github.com/tox1cfps/idle-alert-extension)  
-  Bot com foco em jornalistico cômico para servidores de discord com integração com API do Gemini
+  Extensão do VsCode para lembrar o usuário que ele está com o aplicativo aberto e ocioso
 ---
 
 🎓 Estudante de ADS (1º semestre)  
